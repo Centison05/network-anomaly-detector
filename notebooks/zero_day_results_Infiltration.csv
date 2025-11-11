@@ -1,0 +1,3 @@
+Metric,Full Knowledge Model,Zero-Day Model (Infiltration)
+ROC-AUC,1.0,0.8989197530864197
+PR-AUC,1.0,0.8473462200283673
